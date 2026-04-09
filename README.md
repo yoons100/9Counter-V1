@@ -1,3 +1,4 @@
+![Platform](https://img.shields.io/badge/platform-Windows-blue) [![Release](https://img.shields.io/badge/Release-V1.0-fc1ba6)](https://github.com/Yoons-B1/StageCounter-V1/releases) ![License](https://img.shields.io/github/license/Yoons-B1/StageCounter-V1)
 # <img width="48" height="48" alt="counter_icon copy" src="https://github.com/user-attachments/assets/5aac95a7-e744-485e-9115-343042edecba" /> StageCounter V1.0
 
 ## ▶️ Overview
