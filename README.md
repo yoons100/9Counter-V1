@@ -38,8 +38,9 @@ It also includes an option to display time beyond 24 hours.
 
 ---
 <img width="671" height="211" alt="2026-04-10 13 14 53" src="https://github.com/user-attachments/assets/e53a6181-5b2b-4b53-9229-446ac2f27c5f" />  
----
-<img width="671" height="645" alt="2026-04-10 13 09 18" src="https://github.com/user-attachments/assets/8f7679da-a40b-430c-94ec-7222a6ca732c" />  
+
+<img width="671" height="661" alt="setup" src="https://github.com/user-attachments/assets/1ae213ad-c3f0-4d4f-8f13-448ea38a4d4a" />
+
 
 ### ⚙️ Settings
 
@@ -94,12 +95,20 @@ Example:
 
 ## ⚠️ Notes
 
+1. To use Spout output, you need an application that can receive Spout input (e.g., media server applications).
+2. When using Spout on a system with both integrated and dedicated GPUs, make sure both the sender and receiver apps use the same GPU.  
+   * Go to **Settings → System → Display → Graphics**, add **9Counter** as a desktop app and set it to **High Performance (dedicated GPU)**.  
+   Apply the same setting to the receiving application (e.g., Resolume Arena, TouchDesigner).
+3. If the output appears vertically flipped, enable the **Flip** option.
+
+**Warning :**  
+* If a dedicated GPU is present and the sender (9Counter) and receiver apps use different GPUs, the receiver application may crash or behave unexpectedly.
 * During operation, moving or resizing the window may briefly pause the display.
 
 ---
 ---
 
-# 9카운터 V1  
+# 9Counter V1  
 
 ## ▶️ 개요
 
@@ -190,4 +199,12 @@ Example:
 
 ## ⚠️ 참고사항
 
-* 카운트 작동중 창 이동/리사이즈를 하면 화면이 잠깐 멈출 수 있음
+1. Spout 출력을 사용하려면, Spout 입력을 받을 수 있는 앱(미디어서버 등)이 필요합니다.
+2. 내장/외장 그래픽카드가 있는 경우, Spout 송신/수신 앱의 그래픽카드를 동일하게 설정해야 합니다.  
+   * **설정 → 시스템 → 디스플레이 → 그래픽**에서 9Counter를 데스크탑 앱으로 추가한 후 **고성능(외장 GPU)**으로 설정하세요.  
+   Spout를 받는 앱(Resolume Arena, TouchDesigner 등)도 동일하게 외장 GPU로 설정해야 합니다.
+3. 출력이 상하 반전되어 보일 경우, **Flip 옵션**을 체크하세요.
+
+**주의 :**  
+* 외장 그래픽카드가 있는 환경에서 9Counter와 Spout 수신 앱이 사용하 GPU가 서로 다를 경우, 수신 앱이 비정상 종료되거나 오작동할 수 있습니다.
+* 카운트 작동중 창 이동/리사이즈를 하면 화면이 잠깐 멈출 수 있습니다
