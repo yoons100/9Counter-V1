@@ -213,7 +213,7 @@ If you need multiple counters, copy the app into separate folders and run each i
 3. 출력이 상하 반전되어 보일 경우, **Flip 옵션**을 체크하세요.
 
 **주의 :**  
-* 외장 그래픽카드가 있는 환경에서 9Counter와 Spout 수신 앱이 사용하 GPU가 서로 다를 경우, 수신 앱이 비정상 종료되거나 오작동할 수 있습니다.
+* 외장 그래픽카드가 있는 환경에서 9Counter와 Spout 수신 앱이 사용하는 GPU가 서로 다를 경우, 수신 앱이 비정상 종료되거나 오작동할 수 있습니다.
 * 카운트 작동중 창 이동/리사이즈를 하면 화면이 잠깐 멈출 수 있습니다.
 
 ---
