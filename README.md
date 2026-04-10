@@ -37,7 +37,9 @@ It also includes an option to display time beyond 24 hours.
 | Ctrl + Q | Quit                 |
 
 ---
-<img width="671" height="645" alt="2026-04-10 13 09 18" src="https://github.com/user-attachments/assets/8f7679da-a40b-430c-94ec-7222a6ca732c" />
+<img width="671" height="211" alt="2026-04-10 13 14 53" src="https://github.com/user-attachments/assets/e53a6181-5b2b-4b53-9229-446ac2f27c5f" />  
+---
+<img width="671" height="645" alt="2026-04-10 13 09 18" src="https://github.com/user-attachments/assets/8f7679da-a40b-430c-94ec-7222a6ca732c" />  
 
 ### ⚙️ Settings
 
