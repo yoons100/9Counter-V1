@@ -207,7 +207,7 @@ If you need multiple counters, copy the app into separate folders and run each i
 ## ⚠️ 참고사항
 
 1. Spout 출력을 사용하려면, Spout 입력을 받을 수 있는 앱(미디어서버 등)이 필요합니다.
-2. 내장/외장 그래픽카드가 있는 경우, Spout 송신/수신 앱의 그래픽카드를 동일하게 설정해야 합니다.  
+2. 외장 그래픽카드가 있는 경우, Spout 송신/수신 앱의 그래픽카드를 동일하게 설정해야 합니다.  
    * **설정 → 시스템 → 디스플레이 → 그래픽**에서 9Counter를 데스크탑 앱으로 추가한 후 **고성능(외장 GPU)**으로 설정하세요.  
    Spout를 받는 앱(Resolume Arena, TouchDesigner 등)도 동일하게 외장 GPU로 설정해야 합니다.
 3. 출력이 상하 반전되어 보일 경우, **Flip 옵션**을 체크하세요.
