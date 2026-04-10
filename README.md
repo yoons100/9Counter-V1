@@ -106,6 +106,13 @@ Example:
 * During operation, moving or resizing the window may briefly pause the display.
 
 ---
+
+## ✨ Tip
+
+This app is a portable application (no installation required), so you can run multiple instances simultaneously and use them as independent counters with different timings.  
+If you need multiple counters, copy the app into separate folders and run each instance with different **Spout output names** and **OSC ports**.
+
+---
 ---
 
 # 9Counter V1  
@@ -207,4 +214,12 @@ Example:
 
 **주의 :**  
 * 외장 그래픽카드가 있는 환경에서 9Counter와 Spout 수신 앱이 사용하 GPU가 서로 다를 경우, 수신 앱이 비정상 종료되거나 오작동할 수 있습니다.
-* 카운트 작동중 창 이동/리사이즈를 하면 화면이 잠깐 멈출 수 있습니다
+* 카운트 작동중 창 이동/리사이즈를 하면 화면이 잠깐 멈출 수 있습니다.
+
+---
+
+## ✨ 팁
+
+이 앱은 설치형이 아닌 포터블 앱이므로 여러 개를 동시에 실행하여 각각 다른 시간의 카운터로 사용할 수 있습니다.  
+여러 개의 카운터가 필요한 경우, 앱을 각각 다른 폴더에 복사한 하고 **Spout 출력 이름**과 **OSC 포트**를 서로 다르게 설정하여 실행하세요.  
+
