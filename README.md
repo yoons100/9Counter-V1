@@ -1,7 +1,50 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-blue) [![Release](https://img.shields.io/badge/Release-V1.7-fc1ba6)](https://github.com/Yoons-B1/9Counter-V1/releases) ![License](https://img.shields.io/github/license/Yoons-B1/9Counter-V1)
 # <img width="36" height="36" alt="9icon copy" src="https://github.com/user-attachments/assets/59fa5943-f3d1-48b7-9af0-5323b2ed6037" /> 9Counter V1
 
-## ▶️ Overview
+---
+
+## ✨ 9Counter V2.0 Update
+
+9Counter has been updated to **V2.0**, introducing an official Multi-Counter Launcher system.
+
+### New Features
+- Control multiple counters using the **Counter Launcher** system
+- Added **NDI output support** alongside SPOUT and OSC  
+  → Now compatible with tools like **vMix, Resolume, and MadMapper**
+- Improved **time logic stability**
+
+### Availability
+The V2.0 version is now available on the Microsoft Store :  
+https://apps.microsoft.com/detail/9PCXK61XCCQN
+
+* The app is listed as a low-cost paid version.  
+If you need a **redeem code**, feel free to contact me :  
+antonio@credl.net
+
+---
+
+## ✨ 9Counter V2.0 업데이트
+
+9Counter가 멀티 카운터를 공식 지원하는 Launcher 기능을 추가하여  
+**V2.0**으로 업데이트되었습니다.
+
+### 주요 기능
+- **Counter Launcher 방식**으로 여러 개의 카운터를 동시에 제어
+- 기존 SPOUT, OSC에 더해 **NDI 출력 지원 추가**  
+  → vMix, Resolume, MadMapper 등과 연동 가능
+- **타임 로직 안정화**
+
+### 다운로드
+V2.0 버전은 Microsoft Store에서 다운로드할 수 있습니다 :  
+https://apps.microsoft.com/detail/9PCXK61XCCQN
+
+* 소액 유료 앱으로 등록되어 있지만,  
+**리딤코드**가 필요하신 경우 메일로 요청하시면 보내드립니다.
+antonio@credl.net
+
+---
+
+## 9Counter V1 Overview
 
 9Counter is a count-up timer with configurable start and end time.
 
@@ -10,7 +53,7 @@ It also includes an option to display time beyond 24 hours.
 
 ---
 
-## ▶️ Features
+## Features
 
 *  Count-up timer (supports 24+ hours display)
 *  Start / End time configuration
@@ -21,9 +64,9 @@ It also includes an option to display time beyond 24 hours.
 
 ---
 
-## ▶️ Usage
+## Usage
 
-### ⚙️ Basic Controls
+### Basic Controls
 
 | Key      | Function             |
 | -------- | -------------------- |
@@ -42,7 +85,7 @@ It also includes an option to display time beyond 24 hours.
 <img width="671" height="661" alt="setup" src="https://github.com/user-attachments/assets/1ae213ad-c3f0-4d4f-8f13-448ea38a4d4a" />
 
 
-### ⚙️ Settings
+### Settings
 
 Press **F2** to open settings.
 
@@ -56,7 +99,7 @@ Press **F2** to open settings.
 
 ---
 
-### ⚙️ OSC Control
+### OSC Control
 
 Enable OSC input in settings.
 
@@ -82,7 +125,7 @@ Example:
 
 ---
 
-### ⚙️ Spout Output
+### Spout Output
 
 * Enable in settings
 * Supports:
@@ -93,7 +136,7 @@ Example:
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 1. To use Spout output, you need an application that can receive Spout input (e.g., media server applications).
 2. When using Spout on a system with both integrated and dedicated GPUs, make sure both the sender and receiver apps use the same GPU.  
@@ -117,7 +160,7 @@ If you need multiple counters, copy the app into separate folders and run each i
 
 # 9Counter V1  
 
-## ▶️ 개요
+## 개요
 
 9Counter는 시작시간/종료시간 설정이 가능한 카운트업 타이머 입니다.
 밀리초 단위표시, Spout영상출력, OSC원격제어를 지원하며,
@@ -125,7 +168,7 @@ If you need multiple counters, copy the app into separate folders and run each i
 
 ---
 
-## ▶️ 주요 기능
+## 주요 기능
 
 *  카운트업 타이머 (24시간 이상 표시 가능)
 *  시작 / 종료 시간 설정
@@ -136,9 +179,9 @@ If you need multiple counters, copy the app into separate folders and run each i
 
 ---
 
-## ▶️ 사용 방법
+## 사용 방법
 
-### ⚙️ 기본 단축키
+### 기본 단축키
 
 | 키        | 기능        |
 | -------- | --------- |
@@ -153,7 +196,7 @@ If you need multiple counters, copy the app into separate folders and run each i
 
 ---
 
-### ⚙️ 설정
+### 설정
 
 **F2** 키로 설정창 진입
 
@@ -167,7 +210,7 @@ If you need multiple counters, copy the app into separate folders and run each i
 
 ---
 
-### ⚙️ OSC 제어
+### OSC 제어
 
 설정에서 OSC 활성화
 
@@ -193,7 +236,7 @@ If you need multiple counters, copy the app into separate folders and run each i
 
 ---
 
-### ⚙️ Spout 출력
+### Spout 출력
 
 * 설정에서 활성화
 * 지원 기능:
@@ -204,7 +247,7 @@ If you need multiple counters, copy the app into separate folders and run each i
 
 ---
 
-## ⚠️ 참고사항
+## 참고사항
 
 1. Spout 출력을 사용하려면, Spout 입력을 받을 수 있는 앱(미디어서버 등)이 필요합니다.
 2. 외장 그래픽카드가 있는 경우, Spout 송신/수신 앱의 그래픽카드를 동일하게 설정해야 합니다.  
