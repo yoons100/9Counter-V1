@@ -39,7 +39,7 @@ V2.0 버전은 Microsoft Store에서 다운로드할 수 있습니다 :
 https://apps.microsoft.com/detail/9PCXK61XCCQN
 
 * 소액 유료 앱으로 등록되어 있지만,  
-**리딤코드**가 필요하신 경우 메일로 요청하시면 보내드립니다.
+**리딤코드**가 필요하신 경우 메일로 요청하시면 보내드립니다.  
 antonio@credl.net
 
 ---
