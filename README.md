@@ -1,4 +1,4 @@
-![Platform](https://img.shields.io/badge/platform-Windows-blue) [![Release](https://img.shields.io/badge/Release-V1.7-fc1ba6)](https://github.com/Yoons-B1/9Counter-V1/releases) ![License](https://img.shields.io/github/license/Yoons-B1/9Counter-V1)
+![Platform](https://img.shields.io/badge/platform-Windows-blue) [![Release](https://img.shields.io/badge/Release-V1.7-fc1ba6)](https://github.com/yoons100/9Counter-V1/releases) ![License](https://img.shields.io/github/license/yoons100/9Counter-V1)
 # <img width="36" height="36" alt="9icon copy" src="https://github.com/user-attachments/assets/59fa5943-f3d1-48b7-9af0-5323b2ed6037" /> 9Counter V1
 
 ---
