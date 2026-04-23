@@ -3,7 +3,7 @@
 
 ---
 
-## ✨ 9Counter V2.0 Update
+## <img width="36" height="36" alt="9counter_icon" src="https://github.com/user-attachments/assets/0ae75448-3d57-41ad-a2df-4bfb502a2c77" /> 9Counter V2.0 Update
 
 9Counter has been updated to **V2.0**, introducing an official Multi-Counter Launcher system.
 
@@ -23,7 +23,7 @@ antonio@credl.net
 
 ---
 
-## ✨ 9Counter V2.0 업데이트
+## <img width="36" height="36" alt="9counter_icon" src="https://github.com/user-attachments/assets/0ae75448-3d57-41ad-a2df-4bfb502a2c77" /> 9Counter V2.0 업데이트
 
 9Counter가 멀티 카운터를 공식 지원하는 Launcher 기능을 추가하여  
 **V2.0**으로 업데이트되었습니다.
