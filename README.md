@@ -15,7 +15,17 @@
 
 ### Availability
 The V2.0 version is now available on the Microsoft Store :  
-https://apps.microsoft.com/detail/9PCXK61XCCQN
+https://apps.microsoft.com/detail/9PCXK61XCCQN  
+
+Tip:  
+In Windows, MS Store apps may not be directly accessible like normal EXE applications.
+To create a shortcut for an installed app:
+
+* Right-click on the Windows Startup menu → Run
+* Type `shell:AppsFolder` and execute
+* Find the desired app in the opened folder and create a shortcut
+
+The created shortcut can be placed on the desktop or added to the Startup folder for automatic launch.  
 
 * The app is listed as a low-cost paid version.  
 If you need a **redeem code**, feel free to contact me :  
@@ -36,7 +46,17 @@ antonio@credl.net
 
 ### 다운로드
 V2.0 버전은 Microsoft Store에서 다운로드할 수 있습니다 :  
-https://apps.microsoft.com/detail/9PCXK61XCCQN
+https://apps.microsoft.com/detail/9PCXK61XCCQN  
+
+팁:  
+Windows에서 MS Store 앱은 일반 EXE처럼 직접 접근되지 않을 수 있습니다.
+앱의 바로가기를 만들려면:
+
+* 윈도우즈 시작메뉴 우클릭 → 실행
+* `shell:AppsFolder` 입력 후 실행
+* 열리는 폴더에서 원하는 앱을 찾아 바로가기 생성
+
+생성된 바로가기는 바탕화면에 두거나 시작프로그램(Startup)에 등록할 수 있습니다.
 
 * 소액 유료 앱으로 등록되어 있지만,  
 **리딤코드**가 필요하신 경우 메일로 요청하시면 보내드립니다.  
